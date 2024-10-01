@@ -1,4 +1,5 @@
 import Hero from "@/components/Hero";
+import Solution from "@/components/Solution";
 import Statement from "@/components/Statement";
 
 
@@ -7,6 +8,7 @@ export default function Home() {
     <div>
           <Hero />
           <Statement />
+          <Solution />
     </div>
 
   );
